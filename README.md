@@ -1,37 +1,54 @@
-## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/mauryamj/abhishek-maurya/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
+<!DOCTYPE html>
+ <head>
+	 <title>ABHISHEK MAURYA</title>
+	 
+ </head>
+ <h1>ABHISHEK MAURYA</h1>
+ <body>
+ <img src="file:///storage/emulated/0/Download/IMG_20200429_115109_552.jpg" height="20%">
+ 
+	<p> A teenager of 15 year old who is in 10th std.the boy is not good in studies.especially in hindi and marathi subject.has interest in computer stuffs.</p>
+	 
+	 <h5>name:abhishek maurya</h5>
+	<h5> class:10th</h5>
+	 <h5>gender:male</h5>
+	 <h5>age:15</h5>
+	 <h5>date of birth:13/1/2005<h5>
+	 
 
-[Link](url) and ![Image](src)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/mauryamj/abhishek-maurya/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+
+
+
+
+
